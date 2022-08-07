@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Project: Recipes
+Simple HTML page listing recipes.
